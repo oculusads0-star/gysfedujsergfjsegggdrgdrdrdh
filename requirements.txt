@@ -1,0 +1,10 @@
+git+https://github.com/huggingface/diffusers.git@qwenimage-lru-cache-bypass
+kernels
+torchao==0.11.0
+transformers
+accelerate
+safetensors
+sentencepiece
+dashscope
+torchvision
+peft
